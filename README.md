@@ -1,8 +1,8 @@
-## Olá, me chamo Leonardo Laranjeira!
+## Olá amigo, me chamo Leonardo Laranjeira 👋
 
 <div align="left"> 
  
-👩🏻‍💻 Focando e estudando desenvolvimento de software 
+👩🏻‍💻 Foco e estudo dedicados em: **Desenvolvimento de software**
  
 📝 Foco atual: **JAVA, Springboot | MySQL | React**
  
