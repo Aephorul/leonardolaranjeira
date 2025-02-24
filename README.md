@@ -4,7 +4,7 @@
  
 👩🏻‍💻 Focando e estudando desenvolvimento de software 
  
-📝 Meu foco atual: **JAVA, Springboot | MySQL | React**
+📝 Foco atual: **JAVA, Springboot | MySQL | React**
  
 🎓 CST em **Gestão da Tecnologia da Informação** 
   
